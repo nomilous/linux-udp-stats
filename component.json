@@ -1,0 +1,14 @@
+{
+  "name": "ubuntu-net-udp",
+  "repo": "nomilous/ubuntu-net-udp",
+  "description": "ubuntu network udp counters",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
