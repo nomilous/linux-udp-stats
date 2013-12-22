@@ -1,7 +1,7 @@
 {
-  "name": "ubuntu-net-udp",
-  "repo": "nomilous/ubuntu-net-udp",
-  "description": "ubuntu network udp counters",
+  "name": "vital-linux-net-udp",
+  "repo": "nomilous/vital-linux-net-udp",
+  "description": "vital - linux network udp counters",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
