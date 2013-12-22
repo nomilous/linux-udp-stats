@@ -1,1 +1,5 @@
-module.exports = 'udp'
+module.exports = function() {
+
+    return 'udp stats'
+
+};
